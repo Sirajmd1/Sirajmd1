@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Sirajuddin Mohammed
 
-<!--
-**Sirajmd1/Sirajmd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Engineer | DevOps Engineer | Cloud & AI Enthusiast
 
-Here are some ideas to get you started:
+🚀 Passionate about Open Source, Cloud Computing, DevOps, and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Technology Stack
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=whitee](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=mzure&logoColor=white
+![Oracle OCI](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+ttps://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kColor=white
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=dge&logo=docker&logoColor=white
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&hite
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=oColor=white
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&hite
+
+### 🌱 Currently Learning
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- Advanced Cloud-Native Architectures
+
+### 🤝 Open to Collaborate On
+- Open Source Projects
+- DevOps & Automation
+- Cloud-Native Platforms
+- AI Integration Projects
+
+### 💬 Ask Me About
+DevOps • AWS • Azure • OCI • Kubernetes • Docker • Jenkins • Terraform • Ansible • Linux • CI/CD • GitHub
+
+### 📫 Contact
+📧 mcrajmd@gmail.com
+
+### 🌟 Philosophy
+Learning in public, sharing knowledge, and empowering others to build successful careers in technology.
