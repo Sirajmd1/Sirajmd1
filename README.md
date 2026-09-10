@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sirajuddin Mohammed
 
-### IT Engineer | DevOps Engineer | Cloud & AI Enthusiast
+### IT Engineer | Oracle EPM | DevOps | Cloud (AWS, Azure, OCI) | Kubernetes | AI & Agentic AI Enthusiast | Open Source Contributor | Continuous Learner
 
 🚀 Passionate about Open Source, Cloud Computing, DevOps, and Artificial Intelligence.
 
