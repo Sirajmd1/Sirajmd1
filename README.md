@@ -6,15 +6,16 @@
 
 ### 🔭 Current Technology Stack
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoaws&logoColor=white
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&=white
-![Oracle OCI](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-theacle&logoColor=white
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badgees&logoColor=white
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=oColor=white
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=oColor=white
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColorble](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=anslor=white
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logogoColor=white
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&white
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for&logo=amazonaws&logoColor=white
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftColor=white
+  <img src="https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&white
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-=kubernetes&logoColor=white
+  <img src="https://img.shields.io/badge/Docker-2496ED?the-badge&logo=docker&logoColor=white
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&ns&logoColor=white
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=dge&logo=terraform&logoColor=white
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansolor=white
+</p>
 
 ### 🌱 Currently Learning
 - Agentic AI
