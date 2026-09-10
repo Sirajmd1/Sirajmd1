@@ -29,6 +29,10 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=oColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=whiteub)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&x&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&u&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logogoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openoColor=white)
 
 🌱 Currently learning:
 - Agentic AI
