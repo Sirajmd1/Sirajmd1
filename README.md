@@ -35,8 +35,10 @@
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openoColor=white)
 
 🌱 Currently learning:
-- Agentic AI
+- Agentic AI 
+    ![Agentic AI](https://img.shields.io/badge/Agentic_AI-74AA9C?style=for-the-badge&logo=openhite)
 - Retrieval-Augmented Generation (RAG)
+   ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=semanticweb&logoColor)
 
 📚 Strong believer in "Learning in Public" and helping aspiring professionals start and grow their careers in technology.
 
