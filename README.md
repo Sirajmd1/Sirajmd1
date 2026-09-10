@@ -1,8 +1,12 @@
 # Hi 👋, I'm Sirajuddin Mohammed
 
-## About Me
+## 👨‍💻 About Me
 
-🚀 Passionate about technology, community engagement, and open source contributions. I enjoy collaborating with developers worldwide and giving back to the tech community through knowledge sharing and mentorship.
+🚀 IT Engineer specializing in Oracle EPM, Cloud Computing, DevOps, and Artificial Intelligence.
+☁️ Experienced with AWS, Microsoft Azure, Oracle Cloud Infrastructure (OCI), Kubernetes, Docker, Terraform, Ansible, Jenkins, and CI/CD automation.
+🤖 Currently exploring Agentic AI, Retrieval-Augmented Generation (RAG), and emerging AI technologies.
+🌟 Passionate about open source collaboration, community engagement, and continuous learning.
+🔧 Enjoy building scalable solutions, automating repetitive tasks, and optimizing operational efficiency through modern cloud and DevOps practices.
 
 💼 Currently working with:
 - Artificial Intelligence (AI)
